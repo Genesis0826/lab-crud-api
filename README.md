@@ -25,7 +25,7 @@ By the end of this laboratory activity, you should be able to:
 - Postman
 - GitHub
   
-# 🔗 API Endpoints (using Postman {{baseUrl}})
+# API Endpoints (using Postman {{baseUrl}})
 
 #Students
 - POST {{baseUrl}}/students → Add new student
